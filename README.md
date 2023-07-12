@@ -5,7 +5,8 @@ Solomon Onogwu (Front-end): My interest has always been to create beautiful user
 Technologies
 
 Below is a breakdown of the necessary technologies and considerations for completing this project:
-![image](https://github.com/Sirtuns4real/cinemalia/assets/114403043/eca5e889-9aa3-4017-b20b-c27608f22dd4)
+![image](https://github.com/Sirtuns4real/Cinemalia/assets/114403043/65302f1a-f3ad-467a-b8b1-3d2d02d7fbbe)
+
 
 1. Libraries:
    - Web scraping library (e.g., Beautiful Soup or Scrapy): This will be useful for extracting movie information from websites to provide recommendations to users.
@@ -56,7 +57,7 @@ API Endpoints/Functions for Other Clients:
 
 Database Model
 
-![image](https://github.com/Sirtuns4real/cinemalia/assets/114403043/285ec7ad-74a2-41c4-8466-df2573c90f17)
+![image](https://github.com/Sirtuns4real/Cinemalia/assets/114403043/3e8d88c4-aaa0-458c-b540-2f3a56607fb7)
 
 User Stories
 1. User Story: Searching for Movies
